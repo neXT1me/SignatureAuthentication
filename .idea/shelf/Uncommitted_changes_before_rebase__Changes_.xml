@@ -1,0 +1,28 @@
+<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1753889488480" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="Fuzzy_classifier/results/plots_new_format/accuracy_per_id.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/accuracy_per_id.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Fuzzy_classifier/results/plots_new_format/far_per_id.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/far_per_id.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Fuzzy_classifier/results/plots_new_format/frr_total.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/frr_total.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Fuzzy_classifier/results/plots_new_format/accuracy_total.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/accuracy_total.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Fuzzy_classifier/results/plots_new_format/far_total.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/far_total.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Fuzzy_classifier/results/plots_new_format/frr_per_id.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/frr_per_id.png" />
+  </binary>
+</changelist>
